@@ -1,0 +1,23 @@
+.teamplayers {
+  &__listgroup {
+    max-height: 70vh;
+    overflow: scroll;
+
+    &__button {
+      background-color: white;
+      color: black;
+      font-weight: bold;
+      border-color: black;
+      border-style: solid;
+      border-width: 1px;
+
+      &:hover {
+        color: gray;
+      }
+    }
+  }
+}
+
+.teamplayers img {
+  border-radius: 50%;
+}
