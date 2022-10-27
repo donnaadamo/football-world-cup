@@ -21,7 +21,3 @@ To run all the tests you can just:
 3. The team being built by the user (UserTeam) is persisted on the browser's local storage at all time so, if the tab is closed, the user never loses the progress.
 
    - The save button, then, is only used to trigger final validations and show an alert, at this point is where I would actually send the data to be saved on the server
-
-4. There are some erros on the console, all of them should be related to the soccerApi cdn throwing 404 for some of the players images I am using.
-
-5. There are improvements to be made such as the page design or the test coverage which could enhanced with some more time
